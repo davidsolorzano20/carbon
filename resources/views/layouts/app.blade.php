@@ -9,6 +9,7 @@
     <meta name="author" content="Super User">
     <meta name="generator" content="Joomla! - Open Source Content Management">
     <title>Al Carbon</title>
+
     <link rel="stylesheet" href="./css/bootstrap.css" type="text/css">
     <link rel="stylesheet" href="./css/bootstrap.responsive.css" type="text/css">
     <link rel="stylesheet" href="./css/tmpl.default.css" type="text/css">
