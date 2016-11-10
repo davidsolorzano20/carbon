@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    AL CARBON
+                    AL CARBON <br> EN CONSTRUCCI&Oacute;N
                 </div>
 {{--
                 <div class="links">
