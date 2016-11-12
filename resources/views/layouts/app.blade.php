@@ -558,6 +558,11 @@
                 <img src="./assets/images/icons/social/twitter.png"
                      style="height: 70px"/>
               </a>
+							<a href="#">
+								<img
+									src="./assets/images/icons/social/instagram.png"
+									style="height: 70px"/>
+							</a>
               <a href="#">
                 <img
                   src="./assets/images/icons/social/google-plus.png"
