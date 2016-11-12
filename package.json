@@ -1,18 +1,23 @@
 {
-  "private": true,
+  "name": "mtech_custom_theme",
+  "version": "1.0.0",
+  "description": "Theme for Mtech Custom",
+  "main": "gulpfile.js",
   "scripts": {
-    "prod": "gulp --production",
-    "dev": "gulp watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Nicaraguan",
+  "license": "ISC",
   "devDependencies": {
-    "bootstrap-sass": "^3.3.7",
     "gulp": "^3.9.1",
-    "jquery": "^3.1.0",
-    "laravel-elixir": "^6.0.0-9",
-    "laravel-elixir-vue-2": "^0.2.0",
-    "laravel-elixir-webpack-official": "^1.0.2",
-    "lodash": "^4.16.2",
-    "vue": "^2.0.1",
-    "vue-resource": "^1.0.3"
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-uglify": "^2.0.0",
+    "install": "^0.8.1",
+    "npm": "^3.10.8"
   }
 }
