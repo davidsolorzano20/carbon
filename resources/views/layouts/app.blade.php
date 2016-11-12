@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Luis David Solorzano Paredes - Ing.Telem&aacute;tica">
-  <meta name="Description" content="Bar & Restaurante Al Carb&oacute;n">
+  <meta name="Description" content="Bar & Restaurante Al Carb&oacute;n - Le&oacute;n">
   <meta name="keywords" content="Carbon, Restaurant, Restaurante, Bar, Comidas, Lounge, Bebidas">
   <title>Al Carb&oacute;n - Bienvenidos</title>
   <link rel="icon" type="image/png" sizes="96x96" href="./assets/images/logo/logo.png">
